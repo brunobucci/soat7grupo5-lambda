@@ -11,7 +11,7 @@ Link do vídeo detalhando DB pode ser visto <a href="https://www.youtube.com/wat
 <b>App com CI/CD:</b> https://github.com/brunobucci/soat7grupo5-app<br>
 <b>Lambda:</b> https://github.com/brunobucci/soat7grupo5-lambda <br>
 <b>DB:</b> https://github.com/brunobucci/soat7grupo5-db <br>
-
+<b>Infra:</b> https://github.com/brunobucci/soat7grupo5-infra <br>
 
 --
 # Tech Challenge Pos Tech SOAT7GRUPO5 - Fase 2
