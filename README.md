@@ -3,7 +3,8 @@
 ### Repositório: Lambda
 
 Link do vídeo detalhando Infra pode ser visto <a href="https://www.youtube.com/watch?v=YplkjITVdOM" target="_blank">aqui</a> <br>
-Link do vídeo detalhando Lambda pode ser visto <a href="https://www.youtube.com/watch?v=bhS" target="_blank">aqui</a> <br>
+Link do vídeo detalhando Lambda pode ser visto <a href="https://www.youtube.com/watch?v=7EgzPtW5QiU" target="_blank">aqui</a> (ESTE VIDEO O YOUTUBE CORTOU E FICOU SEM AUDIO)<br>
+Link do vídeo detalhando Lambda pode ser visto <a href="https://youtu.be/NDBBeLNTZW4" target="_blank">aqui</a> <br> (VIDEO REFEITO COM AUDIO)
 Link do vídeo detalhando DB pode ser visto <a href="https://www.youtube.com/watch?v=zoPAKaxvm4M" target="_blank">aqui</a> <br>
 
 ### Outros repositórios da fase:
